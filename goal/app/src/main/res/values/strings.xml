@@ -5,4 +5,5 @@
     <string name="finish_exercise_weight_unit">kg</string>
     <string name="finish_exercise_weight_hint">20</string>
     <string name="finish_exercise_add_set_button">+</string>
+    <string name="finish_exercise_remove_set_button">-</string>
 </resources>
