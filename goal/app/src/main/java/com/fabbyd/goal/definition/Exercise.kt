@@ -1,3 +1,5 @@
 package com.fabbyd.goal.definition
 
-interface Exercise
+import java.io.Serializable
+
+interface Exercise : Serializable

@@ -2,8 +2,8 @@ package com.fabbyd.goal.definition
 
 import java.time.Duration
 
-class StrengthExercise (load: Float,
-                        repetitions: Int,
-                        sets: Int,
-                        tempo: Tempo,
-                        rest: Duration) : Exercise
+class StrengthExercise (val load: Float,
+                        val repetitions: Int,
+                        val sets: Int,
+                        val tempo: Tempo,
+                        val rest: Duration) : Exercise

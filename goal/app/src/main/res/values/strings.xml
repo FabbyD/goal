@@ -6,4 +6,6 @@
     <string name="finish_exercise_weight_hint">20</string>
     <string name="finish_exercise_add_set_button">+</string>
     <string name="finish_exercise_remove_set_button">-</string>
+    <string name="finish_exercise_comments">Comments</string>
+    <string name="finish_exercise_sets_title">Sets</string>
 </resources>
